@@ -1,6 +1,15 @@
 {
-  "originHash" : "2826ebae6ca64a0c02f17fd3758fd3ed4f70bf5bfeeb230c61c4e370199110ec",
+  "originHash" : "d0598abad6eef7df1a98162d56ac6884d581dbc825f1ba4f99b169def503923d",
   "pins" : [
+    {
+      "identity" : "countrypicker",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SURYAKANTSHARMA/CountryPicker.git",
+      "state" : {
+        "revision" : "416404cce633a2039846ae2cb6951fd93cf7d588",
+        "version" : "4.0.0"
+      }
+    },
     {
       "identity" : "ios-maps-sdk",
       "kind" : "remoteSourceControl",
